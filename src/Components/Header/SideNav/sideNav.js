@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import SideNav from 'react-simple-sidenav';
 
 import SideNavItems from './sideNavItems'
