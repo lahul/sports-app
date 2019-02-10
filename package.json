@@ -61,7 +61,7 @@
   },
   "scripts": {
     "start": "node scripts/start.js",
-    "dev-serv": "json-server --watch db.json --port 4001",
+    "dev-serv": "json-server --watch db.json --port 4000",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
   },

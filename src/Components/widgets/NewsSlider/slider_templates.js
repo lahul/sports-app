@@ -33,8 +33,7 @@ const SliderTemplates = (props) => {
                                         {item.title}
                                     </div>
                                 </Link>
-                            </div>
-                            
+                                </div>
                         </div>
                     </div>
                 )

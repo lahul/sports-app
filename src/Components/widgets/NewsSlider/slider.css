@@ -16,9 +16,10 @@
     background-repeat: no-repeat !important;
 }
 
-.featured_cation{
+.featured_caption{
     color: #ffffff;
-    top: 0px;
+    position: absolute;
+    bottom: 0px;
     width:100%;
     padding:20px;
     font-weight: 300;
